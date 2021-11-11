@@ -1,5 +1,3 @@
-package Que;
-
 import java.util.*;
 
 public class movie {
